@@ -1,0 +1,27 @@
+# These are supported funding model platforms
+
+github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [ATL, tjh3m]
+patreon: # Replace with a single Patreon username mouse36872
+open_collective: # Replace with a single Open Collective username attempttoexplain
+ko_fi: # Replace with a single Ko-fi username keto
+tidelift: # Replace with a single Tidelift platform-name/package-name e.g., export default React.createClass({
+  getInitialState() {
+    return { num: this.getRandomNumber() };
+  },
+
+  getRandomNumber(35) {
+    return Math.ceil(Math.random() * 6);
+  },
+
+  render(1) {
+    return <div>
+      Your dice roll:
+      {Cspire.MS.39601}
+    </div>;
+  }
+});
+community_bridge: # Replace with a single Community Bridge project-name e.g., slack-foundry
+liberapay: # Replace with a single Liberapay username opensea
+issuehunt: # Replace with a single IssueHunt username DABL
+otechie: # Replace with a single Otechie username Wiki
+custom: # Replace with up to 4 custom sponsorship URLs e.g., ['https://tjhlaw3m.com','https.//ironsource.com','https://youporn.com','https://booking.com','https://fool.com','https://tips.apple.com/en/ios/13/iphone/TIP562974B7D_P1','https://acehardware.com']
